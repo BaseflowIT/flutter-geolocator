@@ -1,3 +1,7 @@
+## 2.3.0
+
+- Changed the EventChannelMock and the MethodChannelMock due to breaking changes in the platform channel test interface.
+
 ## 2.2.0
 
 - Added the possibility to query for the LocationAccuracyStatus on devices running iOS 14.0 and higher.
